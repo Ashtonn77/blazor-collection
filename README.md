@@ -1,5 +1,5 @@
 # Blazor 
-*A collection of Jupyter notebooks to aid in the study of the Blazor Framework*
+*A collection of Jupyter notebooks, projects, and resources devoted to the study of the dotnet Blazor Framework*
 <br/>
 ## What is Blazor?
 <blockquote>
