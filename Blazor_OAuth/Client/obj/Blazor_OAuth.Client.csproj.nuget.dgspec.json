@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Client/Blazor_OAuth.Client.csproj": {}
+  },
+  "projects": {
+    "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Client/Blazor_OAuth.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Client/Blazor_OAuth.Client.csproj",
+        "projectName": "Blazor_OAuth.Client",
+        "projectPath": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Client/Blazor_OAuth.Client.csproj",
+        "packagesPath": "/home/ash/.nuget/packages/",
+        "outputPath": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ash/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/Blazor_OAuth.Shared.csproj": {
+                "projectPath": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/Blazor_OAuth.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.9, 5.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/Blazor_OAuth.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/Blazor_OAuth.Shared.csproj",
+        "projectName": "Blazor_OAuth.Shared",
+        "projectPath": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/Blazor_OAuth.Shared.csproj",
+        "packagesPath": "/home/ash/.nuget/packages/",
+        "outputPath": "/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ash/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

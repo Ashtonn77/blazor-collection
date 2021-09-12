@@ -1,0 +1,12 @@
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/bin/Debug/net5.0/Blazor_OAuth.Shared.deps.json
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/bin/Debug/net5.0/Blazor_OAuth.Shared.dll
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/bin/Debug/net5.0/ref/Blazor_OAuth.Shared.dll
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/bin/Debug/net5.0/Blazor_OAuth.Shared.pdb
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.csproj.AssemblyReference.cache
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.AssemblyInfoInputs.cache
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.AssemblyInfo.cs
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.csproj.CoreCompileInputs.cache
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.dll
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/ref/Blazor_OAuth.Shared.dll
+/home/ash/Documents/github/dotnet/blazor-collection/Blazor_OAuth/Shared/obj/Debug/net5.0/Blazor_OAuth.Shared.pdb

@@ -1,0 +1,58 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+
+<style>
+
+.wrapper{
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.auth-box{
+    width: 80%;
+    max-width: 800px;
+    height: 64px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.auth-box img{
+    cursor: pointer;
+}
+
+</style>
+
+
+<div class="wrapper">
+
+    <div class="auth-box">
+
+        <img src="images/google.png" alt="google">
+
+        <img src="images/facebook.png" alt="facebook">
+
+        <img src="images/twitter.png" alt="twitter" @onclick="TwitterSignIn">
+
+        <img src="images/linkedin.png" alt="linkedin">
+
+    </div>
+
+
+</div>
+
+
+@code{
+
+    private void TwitterSignIn()
+    {
+        NavigationManager.NavigateTo("api/user/TwitterSignIn", true);
+    }
+
+}
