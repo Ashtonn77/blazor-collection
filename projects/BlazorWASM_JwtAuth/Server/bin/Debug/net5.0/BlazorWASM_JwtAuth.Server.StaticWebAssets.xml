@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Client\wwwroot\" />
+</StaticWebAssets>

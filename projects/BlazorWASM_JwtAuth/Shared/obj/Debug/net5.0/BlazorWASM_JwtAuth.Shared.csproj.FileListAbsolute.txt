@@ -1,0 +1,12 @@
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\bin\Debug\net5.0\BlazorWASM_JwtAuth.Shared.deps.json
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\bin\Debug\net5.0\BlazorWASM_JwtAuth.Shared.dll
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\bin\Debug\net5.0\ref\BlazorWASM_JwtAuth.Shared.dll
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\bin\Debug\net5.0\BlazorWASM_JwtAuth.Shared.pdb
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.csproj.AssemblyReference.cache
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.AssemblyInfoInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.AssemblyInfo.cs
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.dll
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\ref\BlazorWASM_JwtAuth.Shared.dll
+C:\Users\Ashton\OneDrive - Nebula\JupyterNotebooks\C#\blazor-study-notebooks\projects\BlazorWASM_JwtAuth\Shared\obj\Debug\net5.0\BlazorWASM_JwtAuth.Shared.pdb

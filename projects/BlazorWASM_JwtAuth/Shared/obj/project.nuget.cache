@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTm+dt+gS6gZCR93Ch3e6oBX4FVfNA+GBhkc9oWLgqZ1RpjfLbKig0TjNqrhJpOT9TB4KmDLq46ObkudpxtVNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashton\\OneDrive - Nebula\\JupyterNotebooks\\C#\\blazor-study-notebooks\\projects\\BlazorWASM_JwtAuth\\Shared\\BlazorWASM_JwtAuth.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashton\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
